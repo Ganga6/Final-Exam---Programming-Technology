@@ -1,0 +1,8 @@
+C:\Users\jcoyn\Documents\14th exam\EURO\EURO\bin\Debug\netcoreapp3.1\EURO.deps.json
+C:\Users\jcoyn\Documents\14th exam\EURO\EURO\bin\Debug\netcoreapp3.1\EURO.dll
+C:\Users\jcoyn\Documents\14th exam\EURO\EURO\bin\Debug\netcoreapp3.1\EURO.pdb
+C:\Users\jcoyn\Documents\14th exam\EURO\EURO\obj\Debug\netcoreapp3.1\EURO.csprojAssemblyReference.cache
+C:\Users\jcoyn\Documents\14th exam\EURO\EURO\obj\Debug\netcoreapp3.1\EURO.AssemblyInfoInputs.cache
+C:\Users\jcoyn\Documents\14th exam\EURO\EURO\obj\Debug\netcoreapp3.1\EURO.AssemblyInfo.cs
+C:\Users\jcoyn\Documents\14th exam\EURO\EURO\obj\Debug\netcoreapp3.1\EURO.dll
+C:\Users\jcoyn\Documents\14th exam\EURO\EURO\obj\Debug\netcoreapp3.1\EURO.pdb
